@@ -1,6 +1,6 @@
 # ============================================================
 # 00_limpieza.R  (v2 — migrado a BASE_DE_DATOS_CONSOLIDADA.xlsx)
-# Seminario de Ingeniería ACIN312 - Cliente Confidencial S.A. (Sucursal Sur)
+# Gestión de Inventario - Cliente Confidencial S.A. (Sucursal Sur)
 #
 # Este script reemplaza la versión anterior (00_limpieza_v1_hierarquico.R.bak),
 # que parseaba el export jerárquico de tabla dinámica original. La base
